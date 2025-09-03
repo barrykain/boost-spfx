@@ -5,7 +5,7 @@ import { SPComponentLoader } from '@microsoft/sp-loader';
 const LOG_SOURCE = 'BoostAssistant';
 
 export interface IBoostAssistantApplicationCustomizerProperties {
-  /** Boost subdomain, e.g. "cfsiint" -> https://cfsiint.boost.ai */
+  /** Boost subdomain, e.g. "contoso" -> https://contoso.boost.ai */
   boostTenant: string;
   /** Load the widget without auto-opening (default true = open) */
   autoOpen?: boolean;
