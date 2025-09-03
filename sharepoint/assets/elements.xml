@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+    <CustomAction
+        Title="BoostPanel"
+        Location="ClientSideExtension.ApplicationCustomizer"
+        ClientSideComponentId="41804a5d-62ab-42de-9eba-e90968c980f0"
+        ClientSideComponentProperties="{&quot;testMessage&quot;:&quot;Test message&quot;}">
+    </CustomAction>
+</Elements>

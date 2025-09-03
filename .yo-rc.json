@@ -1,0 +1,19 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "22.19.0",
+    "sdksVersions": {},
+    "version": "1.21.1",
+    "libraryName": "boost-spfx",
+    "libraryId": "0eb585e1-0e7c-4246-83fb-decd1677435f",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "boost-spfx",
+    "solutionShortDescription": "boost-spfx description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "extension",
+    "extensionType": "ApplicationCustomizer"
+  }
+}
