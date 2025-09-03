@@ -222,4 +222,4 @@ sharepoint/
 
 ## License
 
-MIT (or your organization’s standard).
+
